@@ -1,0 +1,21 @@
+Id,Nombre,Calificacion,CreatedAt,UpdatedAt,IsDeleted
+1,Juan Perez,9.5,2024-12-12,2024-12-12,false
+2,Maria Lopez,8.3,2024-12-11,2024-12-12,true
+3,Carlos Garcia,7.8,2024-12-10,2024-12-11,false
+4,Ana Torres,8.9,2024-12-09,2024-12-10,false
+5,Luis Hernandez,9.0,2024-12-08,2024-12-09,true
+6,Sofia Martinez,7.5,2024-12-07,2024-12-08,false
+7,Diego Suarez,6.8,2024-12-06,2024-12-07,false
+8,Valeria Gomez,9.2,2024-12-05,2024-12-06,true
+9,Andres Vega,8.1,2024-12-04,2024-12-05,false
+10,Camila Ortega,9.4,2024-12-03,2024-12-04,false
+11,Ricardo Dominguez,7.3,2024-12-02,2024-12-03,true
+12,Paula Rios,8.7,2024-12-01,2024-12-02,false
+13,Javier Morales,6.9,2024-11-30,2024-12-01,false
+14,Lucia Castro,9.8,2024-11-29,2024-11-30,false
+15,Antonio Vargas,7.4,2024-11-28,2024-11-29,true
+16,Isabel Blanco,8.2,2024-11-27,2024-11-28,false
+17,Fernando Mendez,9.1,2024-11-26,2024-11-27,false
+18,Monica Paredes,7.6,2024-11-25,2024-11-26,true
+19,Pablo Soto,8.5,2024-11-24,2024-11-25,false
+20,Adriana Luna,7.9,2024-11-23,2024-11-24,false

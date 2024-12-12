@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gl4MiEHuBt4=",
+  "dgSpecHash": "xlVT5sWGVK0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\RiderProjects\\C1\\Alumnos\\Alumnos.csproj",
+  "projectFilePath": "C:\\Users\\samue\\RiderProjects\\AlumnosCSarp\\C1\\Alumnos\\Alumnos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\csharpfunctionalextensions\\3.2.0\\csharpfunctionalextensions.3.2.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",

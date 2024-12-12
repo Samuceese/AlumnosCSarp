@@ -1202,11 +1202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\RiderProjects\\C1\\Alumnos\\Alumnos.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\RiderProjects\\AlumnosCSarp\\C1\\Alumnos\\Alumnos.csproj",
       "projectName": "Alumnos",
-      "projectPath": "C:\\Users\\samue\\RiderProjects\\C1\\Alumnos\\Alumnos.csproj",
+      "projectPath": "C:\\Users\\samue\\RiderProjects\\AlumnosCSarp\\C1\\Alumnos\\Alumnos.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\RiderProjects\\C1\\Alumnos\\obj\\",
+      "outputPath": "C:\\Users\\samue\\RiderProjects\\AlumnosCSarp\\C1\\Alumnos\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
